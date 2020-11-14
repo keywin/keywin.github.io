@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f4f5"],{b2a0:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"banxin dao"},[n._v(" 这里是禅道页 ")])},o=[],c={name:"dao",components:{},props:{},data:function(){return{}},created:function(){},mounted:function(){},methods:{}},s=c,u=e("2877"),d=Object(u["a"])(s,a,o,!1,null,"413ad1b2",null);t["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d20f4f5.947400ea.js.map
