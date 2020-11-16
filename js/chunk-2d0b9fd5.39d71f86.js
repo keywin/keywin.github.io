@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9fd5"],{"34fd":function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"banxin web"},[n._v(" 这里是前端首页 ")])},o=[],a={name:"web",components:{},props:{},data:function(){return{}},created:function(){},mounted:function(){},methods:{}},s=a,u=e("2877"),d=Object(u["a"])(s,c,o,!1,null,"213744d6",null);t["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0b9fd5.39d71f86.js.map
