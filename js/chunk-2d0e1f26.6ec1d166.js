@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1f26"],{"7d36":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"banxin game"},[n._v(" Game页 ")])},c=[],o={name:"game",components:{},props:{},data:function(){return{}},created:function(){},mounted:function(){},methods:{}},s=o,u=t("2877"),i=Object(u["a"])(s,a,c,!1,null,"4b6e296e",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0e1f26.6ec1d166.js.map
